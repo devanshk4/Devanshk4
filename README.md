@@ -1,6 +1,6 @@
 # Hi, I’m Devansh 👋
 
-I’m a second-year Computer Science student with an interest in **software development, and problem-solving**.  
+I’m a final-year Computer Science student with an interest in **software development, and problem-solving**.  
 I enjoy building real-world projects, learning core computer science fundamentals, and working close to how systems behave in production.
 
 ---
